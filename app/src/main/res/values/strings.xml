@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Gigazone</string>
+    <string name="title_activity_maps">Gigazone</string>
+    <string name="open_location_settings">GO TO LOCATION SETTINGS</string>
+    <string name="gps_network_not_enabled">Your Device GPS must be enabled to use this app.</string>
+    <string name="Cancel">Cancel</string>
+    <string-array name="caseType_array">
+        <item>Choose a category</item>
+        <item>Robbery</item>
+        <item>Rape</item>
+        <item>Kidnap</item>
+        <item>Theft</item>
+        <item>Cultism</item>
+        <item>Others</item>
+    </string-array>
+
+</resources>
